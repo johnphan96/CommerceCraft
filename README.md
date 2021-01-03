@@ -1,2 +1,2 @@
-# minecraft-commerce
-Personal project to build a commerce platform
+# CommerceCraft
+Personal project to build a eCommerce platform
