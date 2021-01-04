@@ -46,6 +46,7 @@ h2 {
   font-size: 1.6rem;
   margin:0;
   padding: 0;
+  color: #007185;
 }
 a {
   text-decoration: none;
@@ -106,4 +107,8 @@ img.price-image {
 .rating span {
   color: #f0c040;
   margin: 0.1rem;
+}
+.rating span:last-child {
+  color: #007185;
+  font-size: 1.2rem;
 }
