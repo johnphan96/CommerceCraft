@@ -10,6 +10,7 @@ const data = {
             rating:5,
             numReviews:13,
             description:'High quality diamond pickaxe. Full durability. Unenchanted.',
+            countInStock: 15,
         },
         {
             _id:'2',
@@ -21,6 +22,7 @@ const data = {
             rating:5,
             numReviews:24,
             description:'High quality diamond sword. Full durability. Unenchanted.',
+            countInStock: 11,
         },
         {
             _id:'3',
@@ -32,6 +34,7 @@ const data = {
             rating:5,
             numReviews:10,
             description:'High quality diamond axe. Full durability. Unenchanted.',
+            countInStock: 8,
         },
         {
             _id:'4',
@@ -43,6 +46,7 @@ const data = {
             rating:5,
             numReviews:8,
             description:'High quality diamond shovel. Full durability. Unenchanted.',
+            countInStock: 8,
         },
         {
             _id:'5',
@@ -54,6 +58,7 @@ const data = {
             rating:5,
             numReviews:10,
             description:'High quality diamond hoe. Full durability. Unenchanted.',
+            countInStock: 8,
         },
         {
             _id:'6',
@@ -65,6 +70,7 @@ const data = {
             rating:5,
             numReviews:20,
             description:'High quality enchanted diamond pickaxe. Full durability. Efficiency V, Unbreaking III, Fortune III.',
+            countInStock: 3,
         },
         {
             _id:'7',
@@ -76,6 +82,7 @@ const data = {
             rating:4.5,
             numReviews:7,
             description:'High quality enchanted diamond sword. Full durability. Sharpness V, Unbreaking III.',
+            countInStock: 4,
         },
         {
             _id:'8',
@@ -87,6 +94,7 @@ const data = {
             rating:4.5,
             numReviews:4,
             description:'High quality enchanted diamond axe. Full durability. Efficiency V, Unbreaking III.',
+            countInStock: 8,
         },
         {
             _id:'9',
@@ -98,6 +106,7 @@ const data = {
             rating:4.5,
             numReviews:4,
             description:'High quality enchanted diamond shovel. Full durability. Efficiency V, Unbreaking III.',
+            countInStock: 0,
         },
         {
             _id:'10',
@@ -109,6 +118,7 @@ const data = {
             rating:4,
             numReviews:4,
             description:'High quality enchanted diamond pickaxe. Full durability. Efficiency V, Unbreaking III.',
+            countInStock: 0,
         },
     ],
 }
