@@ -1,0 +1,26 @@
+{
+  "name": "commercecraft",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Personal project to build a eCommerce platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnphan96/CommerceCraft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnphan96/CommerceCraft/issues"
+  },
+  "homepage": "https://github.com/johnphan96/CommerceCraft#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
